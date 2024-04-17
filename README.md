@@ -5,7 +5,6 @@ Code Solver is a cutting-edge Flutter application designed to streamline problem
 ## Features
 
 - **Advanced State Management**: Utilizes Flutter Bloc for robust state management, ensuring efficient data handling and seamless user interface updates.
-- **Clean Architecture**: Implements clean architecture in Flutter, emphasizing organized and maintainable code to enhance development scalability.
 - **Text Recognition**: Integrates Google's ML Kit Text Recognition v2, enabling text recognition from images for enhanced functionality.
 - **Code Generation**: Utilizes OpenAI's state-of-the-art models internally to generate code from prompt-based inputs, showcasing an innovative approach to problem-solving and code generation.
 
