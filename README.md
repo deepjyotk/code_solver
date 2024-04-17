@@ -1,6 +1,6 @@
 # Code Solver
 
-Code Solver is a cutting-edge Flutter application designed to streamline problem-solving and code generation. This README provides an overview of the project, its features, installation instructions, and more.
+Code Solver is a cutting-edge Flutter application designed to streamline problem-solving and code generation.
 
 ## Features
 
